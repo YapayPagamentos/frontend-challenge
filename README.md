@@ -40,3 +40,6 @@ Você terá as informações necessárias para interação com a API em `http://
 - React Hooks
 - Testes unitários
 - Código limpo e bem organizado
+
+### Finalizando
+Ao finalizar o desenvolvimento, envie um zip do projeto para rh@yapay.com.br  
